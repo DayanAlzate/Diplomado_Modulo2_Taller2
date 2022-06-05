@@ -3,7 +3,8 @@
 """
 Created on Thu Jun  2 17:22:14 2022
 
-@author: dayan
+@author: dayan alzate hernandez
+Id:000502226
 """
 ## Lea la base de datos netflix_titles usando la librería “pandas”.
 import pandas as pd 
